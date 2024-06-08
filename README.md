@@ -75,7 +75,7 @@ The client is started by running the file ./Client/Client.out (Windows: `mingw32
 
 
 
-## APPENDIX: Tutorial on the C, make and SDL basics. Prepared by KTH teaching staff.
+## APPENDIX: Tutorial on C, make and SDL basics. Prepared by KTH teaching staff.
 **source: https://canvas.kth.se/courses/46290**
 
 **To install C and Make (and msys2 for Windows):** https://github.com/Makerspace-KTH/c_programing_intro
