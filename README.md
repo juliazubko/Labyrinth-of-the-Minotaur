@@ -75,16 +75,13 @@ The client is started by running the file ./Client/Client.out (Windows: `mingw32
 
 
 
-## APPENDIX: Tutorial on C, make and SDL basics. Prepared by KTH teaching staff.
-**source: https://canvas.kth.se/courses/46290**
+## APPENDIX: Tutorials on C, make and SDL basics (prepared by KTH teaching staff) 
+**https://canvas.kth.se/courses/46290**
 
 **To install C and Make (and msys2 for Windows):** https://github.com/Makerspace-KTH/c_programing_intro
 
 **To install SDL (Note: msys2 is required for Windows):** https://github.com/Makerspace-KTH/sdl_hello
 
-For Windows, if you prefer to use PowerShell (instead of msys2’s terminal):
-You will need to set the PATH variable in Windows. Do this in the advanced system settings under environment variables. 
-Select the PATH variable, edit it, and add the path to gcc.exe, mingw32-make.exe, etc. (e.g., C:\msys64\mingw64\bin).
 
 
 
