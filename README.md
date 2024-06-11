@@ -1,6 +1,6 @@
-# Labyrinth of the Minotaur (SDL, SDL-net, C-lang) 
+# Labyrinth of the Minotaur (SDL, SDL-net, C) 
 
-is a network-based multiplayer game in classic 2D maze style, where players navigate through a labyrinth to find the exit and escape before the Minotaur catches them. 
+is a network-based multiplayer (for 2 - 6 players) game in classic 2D maze style, where players navigate through a labyrinth to find the exit and escape before the Minotaur catches them. 
 
 Developed by students from KTH Royal Institute of Technology as part of the course CM1008 VT24 Project Course in Application Development (60476).
 
