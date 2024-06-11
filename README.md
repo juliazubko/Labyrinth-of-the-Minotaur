@@ -1,6 +1,6 @@
 # Labyrinth of the Minotaur (SDL, SDL-net, C) 
 
-is a network-based multiplayer (for 2 - 6 players) game in classic 2D maze style, where players navigate through a labyrinth to find the exit and escape before the Minotaur catches them. 
+is a network-based multiplayer game in classic 2D maze style, where players navigate through a labyrinth to find the exit and escape before the Minotaur catches them. 
 
 Developed by students from KTH Royal Institute of Technology as part of the course CM1008 VT24 Project Course in Application Development (60476).
 
@@ -26,6 +26,7 @@ https://github.com/juliazubko/Labyrinth-of-the-Minotaur/assets/102211232/4077d54
     - Map (Human-specific): Displays the entire maze and the player's position on it for 10 seconds and making the player invisible at the time.
 - **Escape portal:** Allows non-hunter players to instantly win the game by teleporting out of the maze when they enter it.
 - **Controls:** Players can navigate in the game using either the ASDW keys or the arrow keys. The menu is operable with the mouse. For hunters, pressing the spacebar allows eliminating humans within the "kill reach area."
+- **Network-Based Multiplayer:** Supports 2-6 players, allowing them to connect and play together via a server.
   
 
 
